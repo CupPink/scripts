@@ -1,5 +1,3 @@
 return {
-     Fisch = 1.0.0,
-     Digit = 1.0.0,
-     Exiled = 1.0.0,
+     1.0.0,
 }
