@@ -1,21 +1,21 @@
 return {
     Pickaxes = {
         -- World 1
-        ['Bronze Pickaxe'] = {Name = 'Bronze Pickaxe', BuyPrice = 150, World = '76558904092080'},
-        ['Iron Pickaxe'] = {Name = 'Iron Pickaxe', BuyPrice = 500, World = '76558904092080'},
-        ['Gold Pickaxe'] = {Name = 'Gold Pickaxe', BuyPrice = 1500, World = '76558904092080'},
-        ['Platinum Pickaxe'] = {Name = 'Platinum Pickaxe', BuyPrice = 5000, World = '76558904092080'},
-        ['Emperor\'s Shovel'] = {Name = 'Emperor\'s Shovel', BuyPrice = 3333, World = '76558904092080'},
-        ['Arcane Pickaxe'] = {Name = 'Arcane Pickaxe', BuyPrice = 125000, World = '76558904092080'},
+        ['Bronze Pickaxe'] = {Name = 'Bronze Pickaxe', BuyPrice = 150, World = 76558904092080},
+        ['Iron Pickaxe'] = {Name = 'Iron Pickaxe', BuyPrice = 500, World = 76558904092080},
+        ['Gold Pickaxe'] = {Name = 'Gold Pickaxe', BuyPrice = 1500, World = 76558904092080},
+        ['Platinum Pickaxe'] = {Name = 'Platinum Pickaxe', BuyPrice = 5000, World = 76558904092080},
+        ['Emperor\'s Shovel'] = {Name = 'Emperor\'s Shovel', BuyPrice = 3333, World = 76558904092080},
+        ['Arcane Pickaxe'] = {Name = 'Arcane Pickaxe', BuyPrice = 125000, World = 76558904092080},
 
         -- World 2
-        ['Cobalt Pickaxe'] = {Name = 'Cobalt Pickaxe', BuyPrice = 10000, World = '129009554587176'},
-        ['Titanium Pickaxe'] = {Name = 'Titanium Pickaxe', BuyPrice = 22500, World = '129009554587176'},
-        ['Uranium Pickaxe'] = {Name = 'Uranium Pickaxe', BuyPrice = 37500, World = '129009554587176'},
-        ['Mythril Pickaxe'] = {Name = 'Mythril Pickaxe', BuyPrice = 67500, World = '129009554587176'},
-        ['Lightite Pickaxe'] = {Name = 'Lightite Pickaxe', BuyPrice = 98500, World = '129009554587176'},
-        ['Magma Pickaxe'] = {Name = 'Magma Pickaxe', BuyPrice = 150000, World = '129009554587176'},
-        ['Demonic Pickaxe'] = {Name = 'Demonic Pickaxe', BuyPrice = 500000, World = '129009554587176'},
+        ['Cobalt Pickaxe'] = {Name = 'Cobalt Pickaxe', BuyPrice = 10000, World = 129009554587176},
+        ['Titanium Pickaxe'] = {Name = 'Titanium Pickaxe', BuyPrice = 22500, World = 129009554587176},
+        ['Uranium Pickaxe'] = {Name = 'Uranium Pickaxe', BuyPrice = 37500, World = 129009554587176},
+        ['Mythril Pickaxe'] = {Name = 'Mythril Pickaxe', BuyPrice = 67500, World = 129009554587176},
+        ['Lightite Pickaxe'] = {Name = 'Lightite Pickaxe', BuyPrice = 98500, World = 129009554587176},
+        ['Magma Pickaxe'] = {Name = 'Magma Pickaxe', BuyPrice = 150000, World = 129009554587176},
+        ['Demonic Pickaxe'] = {Name = 'Demonic Pickaxe', BuyPrice = 500000, World = 129009554587176},
     },
     Rocks = {
         "Basalt Core",
